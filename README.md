@@ -1,1 +1,1 @@
-# Repositório do Desafio de Projeto sobre git/github
+# Repositório do Desafio de Projeto de Ciências de Dados
